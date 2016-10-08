@@ -25,3 +25,7 @@ img {
   max-height: 100%;
   max-width: 100%;
 }
+
+.portfolio-container {
+  z-index: -1;
+}
